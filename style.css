@@ -1,0 +1,48 @@
+/* my comment 
+img {
+    display: block;
+    margin: 0 auto;
+} */
+body {
+  background-color: black;
+font-family: 'Sriracha', 'momospace',cursive; color: #FFD521;
+}
+
+img {
+   display: block;
+  margin: 0 auto;}
+h1{text-align: center;
+  font-size: 50px;
+}
+.thick-gray-border {
+    border-color: #EEEEEE;
+    border-width: 50px;
+    border-style: solid;
+    border-radius: 25px;
+}
+h2{text-align: center;}
+h4{text-align: center;}
+p{
+/*   text-align: center; */
+  
+/*   margin: 50px 150px 10px 80px; */
+  margin: 50px auto 20px auto;
+  width: 80%;
+  max-width: 600px;
+}
+
+ul {
+  background: teal;
+  width: 80%;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 600px;
+  
+/*   margin: 0 auto;
+  width: 80%;
+  
+  padding: 0;
+  max-width: 600px; */
+}
+
+
