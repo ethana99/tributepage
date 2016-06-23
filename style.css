@@ -16,7 +16,7 @@ h1{text-align: center;
 }
 .thick-gray-border {
     border-color: #EEEEEE;
-    border-width: 50px;
+    border-width: 20px;
     border-style: solid;
     border-radius: 25px;
 }
